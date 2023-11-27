@@ -1,0 +1,44 @@
+﻿  OpenGLl.cpp
+C:\Users\User\source\repos\Project10\OpenGLl.cpp(158,18): warning C4305: -=: усечение из "double" в "float"
+C:\Users\User\source\repos\Project10\OpenGLl.cpp(160,21): warning C4305: =: усечение из "double" в "float"
+C:\Users\User\source\repos\Project10\OpenGLl.cpp(167,18): warning C4305: -=: усечение из "double" в "float"
+C:\Users\User\source\repos\Project10\OpenGLl.cpp(173,18): warning C4305: +=: усечение из "double" в "float"
+C:\Users\User\source\repos\Project10\OpenGLl.cpp(179,18): warning C4305: +=: усечение из "double" в "float"
+C:\Users\User\source\repos\Project10\OpenGLl.cpp(185,18): warning C4305: -=: усечение из "double" в "float"
+C:\Users\User\source\repos\Project10\OpenGLl.cpp(191,18): warning C4305: +=: усечение из "double" в "float"
+C:\Users\User\source\repos\Project10\OpenGLl.cpp(197,18): warning C4305: -=: усечение из "double" в "float"
+C:\Users\User\source\repos\Project10\OpenGLl.cpp(203,19): warning C4305: -=: усечение из "double" в "float"
+C:\Users\User\source\repos\Project10\OpenGLl.cpp(209,19): warning C4305: +=: усечение из "double" в "float"
+C:\Users\User\source\repos\Project10\OpenGLl.cpp(238,57): warning C4101: transformLoc8: неиспользованная локальная переменная
+C:\Users\User\source\repos\Project10\OpenGLl.cpp(238,42): warning C4101: transformLoc7: неиспользованная локальная переменная
+C:\Users\User\source\repos\Project10\OpenGLl.cpp(236,12): warning C4101: transformLoc3: неиспользованная локальная переменная
+C:\Users\User\source\repos\Project10\OpenGLl.cpp(238,27): warning C4101: transformLoc6: неиспользованная локальная переменная
+C:\Users\User\source\repos\Project10\OpenGLl.cpp(237,12): warning C4101: transformLoc4: неиспользованная локальная переменная
+C:\Users\User\source\repos\Project10\OpenGLl.cpp(238,12): warning C4101: transformLoc5: неиспользованная локальная переменная
+C:\Users\User\source\repos\Project10\OpenGLl.cpp(234,12): warning C4101: transformLoc1: неиспользованная локальная переменная
+C:\Users\User\source\repos\Project10\OpenGLl.cpp(238,72): warning C4101: transformLoc9: неиспользованная локальная переменная
+C:\Users\User\source\repos\Project10\OpenGLl.cpp(235,12): warning C4101: transformLoc2: неиспользованная локальная переменная
+C:\Users\User\source\repos\Project10\OpenGLl.cpp(285,19): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\User\source\repos\Project10\OpenGLl.cpp(286,19): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\User\source\repos\Project10\OpenGLl.cpp(287,19): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\User\source\repos\Project10\OpenGLl.cpp(293,22): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\Project10\OpenGLl.cpp(294,22): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\Project10\OpenGLl.cpp(307,22): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\Project10\OpenGLl.cpp(308,22): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\Project10\OpenGLl.cpp(320,22): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\Project10\OpenGLl.cpp(321,22): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\Project10\OpenGLl.cpp(333,22): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\Project10\OpenGLl.cpp(334,22): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\Project10\OpenGLl.cpp(347,22): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\Project10\OpenGLl.cpp(348,22): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\Project10\OpenGLl.cpp(360,22): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\Project10\OpenGLl.cpp(361,22): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\Project10\OpenGLl.cpp(375,22): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\Project10\OpenGLl.cpp(376,22): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\Project10\OpenGLl.cpp(388,22): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\Project10\OpenGLl.cpp(389,22): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\Project10\OpenGLl.cpp(401,22): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\Project10\OpenGLl.cpp(402,22): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\Project10\OpenGLl.cpp(414,22): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\Project10\OpenGLl.cpp(415,22): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  Project10.vcxproj -> C:\Users\User\source\repos\Project10\Debug\Project10.exe
